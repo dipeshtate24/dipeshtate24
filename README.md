@@ -1,9 +1,8 @@
 # 👋 Hey there, I'm **Dipesh Tate**
 
-💻 **Software Developer | Data Analyst | Statistician**  
-📍 Navi Mumbai, India  
+💻 **ML & Python Developer | Data Enthusiast | Stats Background**  
 📫 [dipeshtate24@gmail.com](mailto:dipeshtate24@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/dipesh-tate) | [GitHub](https://github.com/dipeshtate24)
+🔗 [LinkedIn](https://www.linkedin.com/in/dipesh-tate)
 
 ---
 
