@@ -17,19 +17,24 @@ I am continuously improving my skills through hands-on development and actively 
 
 ## 🧠 Technical Skills  
 
-**Languages:** Python | R | SQL  
-**Frameworks & Tools:** Flask | FastAPI | OpenCV | scikit-learn | Pandas | NumPy | Docker  
-**Core Areas:** Machine Learning | Computer Vision | API Development | Data Analysis  
-**Statistics:** Regression | Hypothesis Testing | Time Series | Econometrics  
+**Languages:** Python 
+**Frameworks & Tools:** Flask | OpenCV | scikit-learn | Pandas | NumPy   
+**Core Areas:** Machine Learning | Computer Vision | API Development  
+**Statistics:** Regression | Hypothesis Testing    
 
 ---
 
 ## 💼 Experience  
 
-### Jr. Software Developer – India Bison (Jan 2024 – Present)  
-- Built an OCR-based visiting card extraction system improving accuracy by 62%  
+### Jr. AI Engineer – EaseMyAI (Feb 2026 - Present)  
+- Contributing to the design and development of deep learning models using Convolutional Neural Networks
+  (CNNs) for Computer Vision tasks.
+- Enhancing model performance through hyperparameter tuning, data augmentation, and iterative experimentation.  
+
+### Jr. Software Developer – India Bison (Jan 2024 – Jan 2026)  
+- Built an OCR-based visiting card extraction system, improving accuracy by 62%.  
 - Developed APIs for image processing and automation  
-- Worked on ML-based digit recognition system  
+- Worked on an ML-based digit recognition system  
 - Created data scraping tools for analysis and insights  
 
 ### Data Science Intern – The Contrast (Mar 2023 – Sep 2023)  
