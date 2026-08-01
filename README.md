@@ -21,8 +21,6 @@
 
 ### 🛠️ Technical Skills
 
-### 🛠️ Technical Skills
-
 * **Languages:** Python
 * **Frameworks & Libraries:** Flask, OpenCV, scikit-learn, Pandas, NumPy
 * **Core Areas:** Machine Learning, Computer Vision, API Development
