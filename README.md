@@ -7,32 +7,29 @@
 ---
 
 ## 🚀 About Me  
-I am an aspiring AI Engineer with a strong foundation in data science and statistics, focused on building practical and scalable solutions using machine learning and computer vision.  
+Jr. AI Engineer with an M.Sc. in Statistics, bridging rigorous statistical theory and practical machine learning applications.
 
-I have experience working on real-world projects including OCR systems, predictive models, and automation tools, where I apply data-driven approaches to solve meaningful problems.  
+🧠 Core Strengths:
 
-I am continuously improving my skills through hands-on development and actively looking to **contribute to impactful AI and data-driven projects**, collaborate with other developers, and grow as an engineer.  
+Statistical Rigor: Hypothesis testing, predictive modeling, regression, and data-driven decision-making.
+
+Applied AI & CV: Hands-on experience developing computer vision tools (OCR systems), predictive models, and web automation pipelines.
+
+Software & APIs: Building functional backend services and ML tools using Python, OpenCV, and Flask.
+
+🎯 Currently focused on expanding my end-to-end AI deployment skills and building scalable production pipelines.
 
 ---
 
 ### 🛠️ Technical Skills
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### 🛠️ Technical Skills
 
-**Frameworks & Libraries**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Domains & Methods**  
-`Machine Learning` • `Computer Vision` • `API Development` • `Regression` • `Hypothesis Testing`
-
-**Platforms**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+* **Languages:** Python
+* **Frameworks & Libraries:** Flask, OpenCV, scikit-learn, Pandas, NumPy
+* **Core Areas:** Machine Learning, Computer Vision, API Development
+* **Statistics:** Regression, Hypothesis Testing, Statistical Inference
+* **Platforms & Tools:** Linux, Windows, Git
 
 ---
 
@@ -66,11 +63,12 @@ I am continuously improving my skills through hands-on development and actively 
 
 ---
 
-## 🎯 Goals  
-- Contribute to open-source AI/ML projects  
-- Build scalable real-world applications  
-- Deepen expertise in Computer Vision and Machine Learning  
+## 🎯 Focus & Goals
+
+* Contribute to open-source AI and Machine Learning projects
+* Transition custom ML & Computer Vision models into production-ready applications
+* Deepen expertise in advanced Computer Vision and scalable system design
 
 ---
 
-⭐ *Focused on learning, building, and contributing to meaningful AI solutions.*
+⭐ *Bridging statistical theory and software engineering to build impactful AI solutions.*
