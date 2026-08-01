@@ -16,7 +16,7 @@
 * **Applied AI & CV:** Hands-on experience developing computer vision tools (OCR systems), predictive models, and web automation pipelines.
 * **Software & APIs:** Building functional backend services and ML tools using Python, OpenCV, and Flask.
 
-🎯 **Currently focused on expanding my end-to-end AI deployment skills and building scalable production pipelines.**
+> 🎯 **Current Focus:** Expanding my end-to-end AI deployment skills and building scalable production pipelines.
 ---
 
 ### 🛠️ Technical Skills
@@ -58,14 +58,15 @@
 
 ### 📐 Subject Matter Expert – Statistics — Chegg India
 *Mar 2022 – Feb 2023 (1 yr)*
-* **Applied Statistics:** Solved **500+** complex statistical problems focusing on regression models, hypothesis testing, probability, and exploratory data analysis.---
+* **Applied Statistics:** Solved **500+** complex statistical problems focusing on regression models, hypothesis testing, probability, and exploratory data analysis.
 
-### 🧪 Projects  
+---
 
-- ML Model Deployment using FastAPI  
-- OCR-based Data Extraction System  
-- GDP Forecasting using Time-Series Models  
+### 🧪 Featured Projects
 
+* 🖼️ **OCR Data Extraction System:** End-to-end computer vision pipeline for automated image text parsing (`Python`, `OpenCV`, `Flask`)
+* ⚡ **FastAPI Model Deployment:** High-performance RESTful API serving production machine learning models (`Python`, `FastAPI`, `Docker`)
+* 📈 **Time-Series GDP Forecasting:** Macroeconomic predictive modeling using statistical time-series methods (`Python`, `Pandas`, `Statsmodels`)
 ---
 
 ### 🎯 Focus & Goals
