@@ -64,9 +64,9 @@
 
 ### 🧪 Featured Projects
 
-* 🖼️ **OCR Data Extraction System:** End-to-end computer vision pipeline for automated image text parsing (`Python`, `OpenCV`, `Flask`)
-* ⚡ **FastAPI Model Deployment:** High-performance RESTful API serving production machine learning models (`Python`, `FastAPI`, `Docker`)
-* 📈 **Time-Series GDP Forecasting:** Macroeconomic predictive modeling using statistical time-series methods (`Python`, `Pandas`, `Statsmodels`)
+* 🖼️ **OCR Data Extraction System:** End-to-end computer vision pipeline for automated image text parsing
+* ⚡ **FastAPI Model Deployment:** High-performance RESTful API serving production machine learning models
+* 📈 **Time-Series GDP Forecasting:** Macroeconomic predictive modeling using statistical time-series methods 
 ---
 
 ### 🎯 Focus & Goals
