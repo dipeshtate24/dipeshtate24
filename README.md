@@ -16,7 +16,7 @@
 * **Applied AI & CV:** Hands-on experience developing computer vision tools (OCR systems), predictive models, and web automation pipelines.
 * **Software & APIs:** Building functional backend services and ML tools using Python, OpenCV, and Flask.
 
-*Currently focused on expanding my end-to-end AI deployment skills and building scalable production pipelines.*
+🎯 *Currently focused on expanding my end-to-end AI deployment skills and building scalable production pipelines.*
 ---
 
 ### 🛠️ Technical Skills
