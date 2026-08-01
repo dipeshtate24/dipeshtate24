@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dipesh Tate  
 
-💻 AI & ML Engineer | Python Developer | Data Science  
+💻 AI & ML Engineer | Data Science  
 📫 dipeshtate24@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/dipesh-tate  
 
