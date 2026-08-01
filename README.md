@@ -31,27 +31,36 @@
 
 ---
 
-## 💼 Experience  
+## 💼 Work Experience
 
-### Jr. AI Engineer – EaseMyAI (Feb 2026 - Present)  
-- Contributing to the design and development of deep learning models using Convolutional Neural Networks
-  (CNNs) for Computer Vision tasks.
-- Enhancing model performance through hyperparameter tuning, data augmentation, and iterative experimentation.  
-
-### Jr. Software Developer – India Bison (Jan 2024 – Jan 2026)  
-- Built an OCR-based visiting card extraction system, improving accuracy by 62%.  
-- Developed APIs for image processing and automation  
-- Worked on an ML-based digit recognition system  
-- Created data scraping tools for analysis and insights  
-
-### Data Science Intern – The Contrast (Mar 2023 – Sep 2023)  
-- Developed and deployed a machine learning model integrated with a web app  
-- Performed data cleaning and preprocessing to improve model performance  
-
-### Subject Matter Expert – Statistics (Chegg India) (Mar 2022 – Feb 2023)  
-- Solved 500+ statistical problems across regression, hypothesis testing, and analytics  
+### 🤖 Jr. AI Engineer — EaseMyAI
+*Feb 2026 – Present*
+* **Computer Vision Development:** Contributing to the design and implementation of Deep Learning models using Convolutional Neural Networks (CNNs) for core Computer Vision tasks.
+* **Model Optimization:** Enhancing accuracy and convergence through hyperparameter tuning, data augmentation, and iterative experimentation.
+* **Tech Stack:** `Python` • `PyTorch` • `TensorFlow` • `OpenCV` • `CNNs`
 
 ---
+
+### 💻 Jr. Software Developer — India Bison
+*Jan 2024 – Jan 2026 (2 yrs)*
+* **OCR System:** Built an end-to-end visiting card extraction system using computer vision, increasing data extraction accuracy by **62%**.
+* **API & Automation:** Developed lightweight backend APIs for automated image processing workflows.
+* **ML & Automation:** Engineered a digit recognition model and created custom web scraping pipelines for data analysis and insights.
+* **Tech Stack:** `Python` • `Flask` • `OpenCV` • `scikit-learn` • `Pandas` • `BeautifulSoup` / `Selenium`
+
+---
+
+### 📊 Data Science Intern — The Contrast
+*Mar 2023 – Sep 2023 (7 mos)*
+* **Web App Integration:** Built, evaluated, and deployed a machine learning model integrated into a functional web application.
+* **Data Engineering:** Performed extensive data cleaning, feature engineering, and preprocessing to maximize model performance.
+* **Tech Stack:** `Python` • `Flask` • `scikit-learn` • `Pandas`
+
+---
+
+### 📐 Subject Matter Expert – Statistics — Chegg India
+*Mar 2022 – Feb 2023 (1 yr)*
+* **Applied Statistics:** Solved **500+** complex statistical problems focusing on regression models, hypothesis testing, probability, and exploratory data analysis.---
 
 ## 🧪 Projects  
 
