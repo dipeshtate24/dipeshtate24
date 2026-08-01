@@ -1,24 +1,22 @@
-# 👋 Hi, I'm Dipesh Tate  
+# 👋 Hi, I'm Dipesh Tate
 
-💻 AI & ML Engineer | Data Science  
-📫 dipeshtate24@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/dipesh-tate  
+### 💻 Jr. AI Engineer | M.Sc. in Statistics
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipesh-tate)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dipeshtate24@gmail.com)
 
 ---
 
-## 🚀 About Me  
-Jr. AI Engineer with an M.Sc. in Statistics, bridging rigorous statistical theory and practical machine learning applications.
+### 📝 About Me
 
-🧠 Core Strengths:
+**Jr. AI Engineer** with an **M.Sc. in Statistics**, bridging the gap between rigorous statistical theory and practical machine learning applications.
 
-Statistical Rigor: Hypothesis testing, predictive modeling, regression, and data-driven decision-making.
+🧠 **Core Strengths:**
+* **Statistical Rigor:** Hypothesis testing, predictive modeling, regression, and data-driven decision-making.
+* **Applied AI & CV:** Hands-on experience developing computer vision tools (OCR systems), predictive models, and web automation pipelines.
+* **Software & APIs:** Building functional backend services and ML tools using Python, OpenCV, and Flask.
 
-Applied AI & CV: Hands-on experience developing computer vision tools (OCR systems), predictive models, and web automation pipelines.
-
-Software & APIs: Building functional backend services and ML tools using Python, OpenCV, and Flask.
-
-🎯 Currently focused on expanding my end-to-end AI deployment skills and building scalable production pipelines.
-
+🎯 *Currently focused on expanding my end-to-end AI deployment skills and building scalable production pipelines.*
 ---
 
 ### 🛠️ Technical Skills
@@ -63,7 +61,7 @@ Software & APIs: Building functional backend services and ML tools using Python,
 
 ---
 
-## 🎯 Focus & Goals
+### 🎯 Focus & Goals
 
 * Contribute to open-source AI and Machine Learning projects
 * Transition custom ML & Computer Vision models into production-ready applications
