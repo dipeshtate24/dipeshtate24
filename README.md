@@ -16,7 +16,7 @@
 * **Applied AI & CV:** Hands-on experience developing computer vision tools (OCR systems), predictive models, and web automation pipelines.
 * **Software & APIs:** Building functional backend services and ML tools using Python, OpenCV, and Flask.
 
-🎯 *Currently focused on expanding my end-to-end AI deployment skills and building scalable production pipelines.*
+🎯 **Currently focused on expanding my end-to-end AI deployment skills and building scalable production pipelines.**
 ---
 
 ### 🛠️ Technical Skills
@@ -35,7 +35,7 @@
 *Feb 2026 – Present*
 * **Computer Vision Development:** Contributing to the design and implementation of Deep Learning models using Convolutional Neural Networks (CNNs) for core Computer Vision tasks.
 * **Model Optimization:** Enhancing accuracy and convergence through hyperparameter tuning, data augmentation, and iterative experimentation.
-* **Tech Stack:** `Python` • `PyTorch` • `TensorFlow` • `OpenCV` • `CNNs`
+* **Tech Stack:** `Python` • `PyTorch` • `TensorFlow` • `OpenCV` • `CNNs` • `Linux`
 
 ---
 
@@ -44,7 +44,7 @@
 * **OCR System:** Built an end-to-end visiting card extraction system using computer vision, increasing data extraction accuracy by **62%**.
 * **API & Automation:** Developed lightweight backend APIs for automated image processing workflows.
 * **ML & Automation:** Engineered a digit recognition model and created custom web scraping pipelines for data analysis and insights.
-* **Tech Stack:** `Python` • `Flask` • `OpenCV` • `scikit-learn` • `Pandas` • `BeautifulSoup` / `Selenium`
+* **Tech Stack:** `Python` • `Flask` • `OpenCV` • `scikit-learn`
 
 ---
 
@@ -60,7 +60,7 @@
 *Mar 2022 – Feb 2023 (1 yr)*
 * **Applied Statistics:** Solved **500+** complex statistical problems focusing on regression models, hypothesis testing, probability, and exploratory data analysis.---
 
-## 🧪 Projects  
+### 🧪 Projects  
 
 - ML Model Deployment using FastAPI  
 - OCR-based Data Extraction System  
