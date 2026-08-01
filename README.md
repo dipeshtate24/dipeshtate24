@@ -17,7 +17,7 @@ I am continuously improving my skills through hands-on development and actively 
 
 ## 🧠 Technical Skills  
 
-**Languages:** Python
+**Languages:** Python 
 **Frameworks & Tools:** Flask | OpenCV | scikit-learn | Pandas | NumPy   
 **Core Areas:** Machine Learning | Computer Vision | API Development  
 **Statistics:** Regression | Hypothesis Testing    
