@@ -15,12 +15,24 @@ I am continuously improving my skills through hands-on development and actively 
 
 ---
 
-## 🧠 Technical Skills  
+### 🛠️ Technical Skills
 
-**Languages:** Python 
-**Frameworks & Tools:** Flask | OpenCV | scikit-learn | Pandas | NumPy   
-**Core Areas:** Machine Learning | Computer Vision | API Development  
-**Statistics:** Regression | Hypothesis Testing    
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frameworks & Libraries**  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Domains & Methods**  
+`Machine Learning` • `Computer Vision` • `API Development` • `Regression` • `Hypothesis Testing`
+
+**Platforms**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ---
 
