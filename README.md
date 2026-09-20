@@ -31,7 +31,7 @@
 
 ## 💼 Work Experience
 
-### 🤖 Jr. AI Engineer — EaseMyAI
+### 🤖 Jr. AI Engineer — 0101 Digit All Solution Pvt Ltd
 *Feb 2026 – Present*
 * **Computer Vision Development:** Contributing to the design and implementation of Deep Learning models using Convolutional Neural Networks (CNNs) for core Computer Vision tasks.
 * **Model Optimization:** Enhancing accuracy and convergence through hyperparameter tuning, data augmentation, and iterative experimentation.
